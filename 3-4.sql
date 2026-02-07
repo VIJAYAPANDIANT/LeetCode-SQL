@@ -53,6 +53,7 @@ EmployeeUNI table:
 | 11 | 2         |
 | 90 | 3         |
 +----+-----------+
+
 Output: 
 +-----------+----------+
 | unique_id | name     |
@@ -63,6 +64,7 @@ Output:
 | 3         | Winston  |
 | 1         | Jonathan |
 +-----------+----------+
+
 Explanation: 
 Alice and Bob do not have a unique ID, We will show null instead.
 The unique ID of Meir is 2.
